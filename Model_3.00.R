@@ -1,5 +1,5 @@
 # working directory
-setwd("c:/WORK/Rozpracovano/Genetic drift and predation/")
+setwd("c:/WORK/")
 
 ############
 # parameters
