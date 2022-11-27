@@ -1,8 +1,6 @@
 # Learning_Mitigates_Genetic_Drift
 This repository contains R script for an agent-based model that monitors allele frequencies in a population of prey, either able or not able to learn how to avoid/escape predators more effectively from the experience of unsuccessful past predator attacks. 
 
-This repository contains R script for an agent-based model that monitors allele frequencies in a population of prey, either able or not able to learn how to avoid/escape predators more effectively from the experience of unsuccessful past predator attacks.
-
 Model_4.00 contains the final version of our model. This version of the model was used to generate results presented in our article published in Scientific Reports, accessible at https://www.nature.com/articles/s41598-022-24748-8
 
 Heatmaps_1.00 is the code we used to generate heatmaps in the published article (https://www.nature.com/articles/s41598-022-24748-8).
